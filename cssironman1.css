@@ -1,0 +1,30 @@
+h1{
+    margin-bottom: -20px;
+}
+hr{
+    margin-top: -10px;
+}
+.casting{
+    display: inline-block;
+
+}
+.casting img{
+    width:100%;
+}
+.casting figure{
+    border-collapse: collapse;
+    margin: 10px;
+    padding: 0;
+    display: inline-block;
+    width: 218px;
+    height: 240px;
+}
+a{
+    color:cornflowerblue;
+}
+a:visited{
+    color:darkblue;
+}
+a:active,a:hover{
+    color: brown;
+}
